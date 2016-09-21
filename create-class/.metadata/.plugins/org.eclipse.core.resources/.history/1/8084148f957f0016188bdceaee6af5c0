@@ -1,0 +1,9 @@
+package com.javaprograms.javaclasses;
+
+
+// Classes have behaviors and states
+public class Cup {
+	// Instance variables or Fields
+	String color;
+	
+}

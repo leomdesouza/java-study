@@ -1,0 +1,11 @@
+package com.javaprograms.javaclasses;
+
+public class JavaClasses {
+
+	public static void main(String[] args) {
+		
+		Cup myCup = new Cup();
+		
+	}
+
+}

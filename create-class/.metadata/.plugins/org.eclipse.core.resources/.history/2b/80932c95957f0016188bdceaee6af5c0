@@ -1,0 +1,16 @@
+package com.javaprograms.javaclasses;
+
+
+// Classes have behaviors and states
+public class Cup {
+	// Instance variables or Fields
+	String color;
+	int capacity;
+	
+	//Behaviors - functions
+	
+	public void shatter(){
+		System.out.println();
+	}
+	
+}
