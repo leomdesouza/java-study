@@ -1,0 +1,13 @@
+package com.javaprograms.javaInheritance;
+
+// Parent Class
+public class Guitar {
+	
+	private String name;
+	private int serialNum;
+	private int numStrings;
+	
+	
+	
+
+}

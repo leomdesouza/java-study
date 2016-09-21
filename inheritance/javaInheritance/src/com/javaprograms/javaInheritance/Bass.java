@@ -1,0 +1,9 @@
+package com.javaprograms.javaInheritance;
+
+public class Bass extends Guitar {
+	public Bass(){
+		System.out.println("Bass Constructor");
+	}
+	
+	
+}

@@ -1,0 +1,13 @@
+package com.javaprograms.javaInheritance;
+
+public class TestInheritance {
+
+	public static void main(String[] args) {
+		
+		Guitar myGuitar = new Guitar();
+		myGuitar.setName("Gibson");
+		
+		System.out.println(myGuitar.getName());
+	}
+
+}

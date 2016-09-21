@@ -1,0 +1,42 @@
+package com.javaprograms.javaInheritance;
+
+// Parent Class
+public class Guitar {
+	
+	private String name;
+	private int serialNum;
+	private int numbStrings;
+	
+	public Guitar(){
+		System.out.println("Parent Constructor");
+	}
+	
+	// Play
+	public void play(){
+		System.out.println("Parent Play()");
+	}
+	
+	// Sound
+	public void sound(){
+		System.out.println("Parent Sound()");
+	}
+	
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getSerialNum() {
+		return serialNum;
+	}
+	public void setSerialNum(int serialNum) {
+		this.serialNum = serialNum;
+	}
+	public int getNumbStrings() {
+		return numbStrings;
+	}
+	public void setNumStrings(int numbStrings) {
+		this.numbStrings = numbStrings;
+	}
+}

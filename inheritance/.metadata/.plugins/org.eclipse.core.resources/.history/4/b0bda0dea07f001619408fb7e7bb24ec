@@ -1,0 +1,32 @@
+package com.javaprograms.javaInheritance;
+
+// Parent Class
+public class Guitar {
+	
+	private String name;
+	private int serialNum;
+	private int numStrings;
+	
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public int getSerialNum() {
+		return serialNum;
+	}
+	public void setSerialNum(int serialNum) {
+		this.serialNum = serialNum;
+	}
+	public int getNumStrings() {
+		return numStrings;
+	}
+	public void setNumStrings(int numStrings) {
+		this.numStrings = numStrings;
+	}
+	
+	
+	
+
+}

@@ -1,0 +1,13 @@
+package com.javaprograms.javaInheritance;
+
+public class TestInheritance {
+
+	public static void main(String[] args) {
+		
+		Bass bass = new Bass();
+		bass.setName("Gibson");
+		
+		System.out.println(bass.getName());
+	}
+
+}
