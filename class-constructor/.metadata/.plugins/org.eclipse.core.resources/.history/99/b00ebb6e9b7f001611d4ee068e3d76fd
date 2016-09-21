@@ -1,0 +1,12 @@
+package com.javaprograms.havahiding;
+
+public class javaDataHiding {
+
+	public static void main(String[] args) {
+		
+		Cup myCup = new Cup("Oliver", 45);
+		
+		
+	}
+
+}
